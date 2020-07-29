@@ -1,8 +1,8 @@
 def speak_to_grandma(string)
   if string = "I LOVE YOU GRANDMA!"
     return "I LOVE YOU TOO PUMPKIN!"
-  elsif string = "Hi Nana, how are you?".capitalize
-    return "HUH?! SPEAK UP SONNY!"
+  else
+    return "HUH?! SPEAK UP, SONNY!"
   end
 end
 
