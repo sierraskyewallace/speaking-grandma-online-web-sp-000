@@ -1,8 +1,4 @@
-def speak_to_grandma(string)
-    if string = "hi".downcase
-    return "HUH?! SPEAK UP, SONNY!"
-  end
-end
+
 
   
 
